@@ -9,9 +9,14 @@ Welcome to our banking app! This project provides a sleek and user-friendly inte
 ## Samples:
 
 <table>
-  <tr>
-    <td>![WhatsApp Image 2024-02-29 at 11 39 28_9dc0d81a](https://github.com/SalihHayat74/Flutter-assessment/assets/106287850/35723fbc-049b-43c4-8411-783ced818aa6)</td>
-    <td>[<img src="https://github.com/SalihHayat74/Flutter-assessment/assets/106287850/de0f2d9e-61ff-4a54-98e1-11874dd4af6b" alt="Screenshot 2" width="300"/>](https://github.com/SalihHayat74/Flutter-assessment/assets/106287850/de0f2d9e-61ff-4a54-98e1-11874dd4af6b)</td>
+ <tr>
+    <td>
+      <video width="300" height="200" controls>
+        <source src="https://github.com/SalihHayat74/Flutter-assessment/assets/106287850/de0f2d9e-61ff-4a54-98e1-11874dd4af6b" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td><img src="https://github.com/SalihHayat74/Flutter-assessment/assets/106287850/35723fbc-049b-43c4-8411-783ced818aa6" alt="Screenshot 1" width="300"/></td>
   </tr>
 </table>
 
