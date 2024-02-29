@@ -20,7 +20,7 @@ Welcome to our banking app! This project provides a sleek and user-friendly inte
   </tr>
 </table>
 
-
+https://github.com/SalihHayat74/Flutter-assessment/assets/106287850/de0f2d9e-61ff-4a54-98e1-11874dd4af6b
 
 
 
