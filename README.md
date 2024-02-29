@@ -1,16 +1,15 @@
-# flutter_assessment
+# Flutter Banking App Account Screen UI
 
-A new Flutter project.
+A Flutter project for a captivating banking app account view with seamless API integration.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Welcome to our banking app! This project provides a sleek and user-friendly interface for viewing account details, powered by a robust API integration.
 
-A few resources to get you started if this is your first Flutter project:
+## API Integration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Our banking app seamlessly connects to a powerful API, ensuring real-time updates and a dynamic user experience. Explore the `lib/api` directory to dive into the intricacies of our API integration.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run the App
+
+Get ready to experience the future of banking! Simply clone this repository to your local machine:
